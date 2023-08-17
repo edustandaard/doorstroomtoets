@@ -3,6 +3,7 @@ API-definities voor Logistieke proces rondom de Doorstroomtoets in het PO bij af
 De OAS3-definities (Defs) in YAML-bestand "doorstroomtoets-openapi.yaml" in de folder "swagger" zijn bedoeld voor de REST API t.b.v. Logisieke proces rondom de Doorstroomtoets PO versie 1.0 (voor schooljaar 2023-2024), zie hiervoor de documentatie (https://app.swaggerhub.com/apis-docs/Kennisnet/Doorstroomtoets/1.0#) en het YAML-bestand (https://raw.githubusercontent.com/JosVanderArend/doorstroomtoets/main/swagger/doorstroom-openapi.yaml).
 
 
+
 Deze uitwisseling omvat 3 interacties die schematisch worden gepresenteerd in de drie onderstaande sequencediagrammen.
 
 ```mermaid
