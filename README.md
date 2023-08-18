@@ -44,5 +44,4 @@ Er kan maximaal worden teruggekeken naar en vergeleken met de eerste versie 1.0 
 Indien er problemen of verbetersuggesties zijn specifiek over de YAML dan graag indienen onder issues: https://github.com/edustandaard/doorstroomtoets/issues.
 
 
-De actuele versie van deze OAS3-definities kan met de Swagger Editor worden ingezien via deze link: https://raw.githubusercontent.com/edustandaard/doorstroomtoets/main/swagger/doorstroom-openapi.yaml. 
- 
+De actuele versie van deze OAS3-definities kan met de Swagger Editor worden ingezien via deze link: https://app.swaggerhub.com/apis/Kennisnet/Doorstroomtoets/1.0
