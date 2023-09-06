@@ -57,7 +57,7 @@ paths:
                 value:
                   datumtijd: 2023-05-10T11:44:00Z
                   auteur: Applicatie xyz
-                  versie: Doorstroomtoetsketen_v1
+                  versie: Doorstroomtoetsketen_v1.0
                   profiel: Toetsdeelnemers
                   schooljaar: 2023-2024
                   deelnemersgroep:
@@ -94,7 +94,7 @@ paths:
                 value:
                   datumtijd: 2023-05-10T11:44:00Z
                   auteur: Applicatie xyz
-                  versie: Doorstroomtoetsketen_v1
+                  versie: Doorstroomtoetsketen_v1.0
                   profiel: Toetsdeelnemers
                   schooljaar: 2023-2024
                   deelnemersgroep:
@@ -214,7 +214,7 @@ paths:
                 value:
                   datumtijd: 2023-05-10T11:44:00Z
                   auteur: Toetssysteem xyz
-                  versie: Doorstroomtoetsketen_v1
+                  versie: Doorstroomtoetsketen_v1.0
                   profiel: Leerlingtoetsresultaat
                   schooljaar: 2023-2024
                   resultatenscores:
