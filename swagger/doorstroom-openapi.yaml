@@ -11,6 +11,7 @@ info:
     + schema Schooladviezenlijst
     + schema AdviesEntry
     + schema Schooladviestype_enum
+    
     Verdere significante wijzigingen zijn:
     + verplichte waarde voor veld versie (over afspraakversie) in de diverse berichten gewijzigd in Doorstroomtoetsketen_v1.1 (was Doorstroomtoetsketen_v1.0)
     + voorbeeldwaarde voor veld schooljaar in de diverse berichten gewijzigd in 2025-2026 (was 2023-2024)
