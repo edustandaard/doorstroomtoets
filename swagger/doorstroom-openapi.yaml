@@ -5,6 +5,7 @@ info:
   description: |-
     Dit is de OAS-definitie versie 1.1.0 van de Doorstroomtoetsketen vanaf schooljaar 2025-2026. Deze versie is gebaseerd op aanpassingen (t.o.v. versie 1.0.1) zoals besloten tijdens het ketenoverleg van 17 april 2025 en 26 juni 2025:
     + Uitwisseling van voorlopig schooladviezen toegevoegd (zie POST /registeren-schooladviezen met object Schooladviezenlijst in verzoek).
+    
     In deze OAS-definitie zijn de volgende elementen toegevoegd (t.o.v. versie 1.0.1):
     + endpoint /registreren-schooladviezen
     + schema Schooladviezenlijst
